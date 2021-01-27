@@ -1,0 +1,1 @@
+y  = y * ( threehalfs - ( x2 * y * y ) );  
